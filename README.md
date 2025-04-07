@@ -1,4 +1,4 @@
-# 👋 Hello, World! I'm Malu 🖖🏼  
+#  Hello, World! I'm Malu 🖖🏼  
 ### 💻 Development Mentor | Tech Enthusiast | Problem Solver  
 
 Sou mentora de desenvolvimento na **Infinity School** e estudante de **Análise e Desenvolvimento de Sistemas**.  
