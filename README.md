@@ -22,7 +22,19 @@ Aqui estão alguns dos meus projetos favoritos:
 - **[Sistema de Gestão de Lava-Jato](https://github.com/malufreitspessoal/lava-jato)**  
   Um sistema backend para gerenciar clientes e veículos, com cadastro, edição e relatórios.  
   **Tecnologias**: Python, SQLAlchemy, SQLite  
-  **Destaque**: Implementei relacionamentos entre tabelas e validações de unicidade para CPFs e placas.  
+  **Destaque**: Implementei relacionamentos entre tabelas e validações de unicidade para CPFs e placas.
+
+## **Automated Data Analysis**
+Um projeto para análise automatizada de dados, com foco em eficiência e insights valiosos.  
+**Tecnologias**: Python, Pandas, NumPy  
+**Destaque**: Implementação de pipelines de análise de dados automatizados, otimizando o tempo de processamento e geração de relatórios detalhados.  
+[🔗 GitHub](https://github.com/malufreitspessoal/automated_data_analysis)
+
+## **Text Spam Detection**
+Sistema inteligente para detectar mensagens de spam com uso de machine learning.  
+**Tecnologias**: Python, Scikit-learn, NLP  
+**Destaque**: Treinamento de modelos de classificação de texto para identificar padrões de spam com alta precisão.  
+[🔗 GitHub](https://github.com/malufreitspessoal/text-spam-detection)
 
 
 ## 🌎 Connect with Me!  
